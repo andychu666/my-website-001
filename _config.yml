@@ -1,0 +1,33 @@
+title: Embarrassing requests
+description: 6 ai models respond the relative requests
+# theme: jekyll-theme-minimal # You can choose other themes
+theme: minima
+
+# Optional settings
+markdown: kramdown
+
+# Add to your existing _config.yml
+permalink: /:year/:month/:day/:title/
+
+baseurl: ""
+url: ""
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
