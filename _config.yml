@@ -9,8 +9,8 @@ markdown: kramdown
 # Add to your existing _config.yml
 permalink: /:year/:month/:day/:title/
 
-baseurl: ""
-url: ""
+baseurl: "/my-website-001"  # Replace with your repository name if not username.github.io
+url: "https://andychu666.github.io"
 
 # Build settings
 plugins:
